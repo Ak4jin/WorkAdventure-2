@@ -19,7 +19,7 @@
                                 {
                                  "name":"playAudio",
                                  "type":"string",
-                                 "value":"drip-coffee-maker-50545.mp3"
+                                 "value":"https:\/\/16bit.heyday.marketing\/rsc\/Coffeemaker.mp3"
                                 }],
                          "rotation":0,
                          "type":"area",
@@ -49,7 +49,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/16bit.heyday.marketing\/rsc\/drip-coffee-maker-50545.mp3"
+                         "value":".\/Coffeemaker.mp3"
                         }],
                  "type":"objectgroup",
                  "visible":true,
